@@ -1,2 +1,6 @@
 # Dotenv file
 .env
+
+# Build files
+cache/
+out/
